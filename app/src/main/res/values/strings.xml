@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parrots</string>
+    <string name="txt_counter1">хочу много попугаев!!!</string>
+    <string name="button" >Добавить попугая</string>
+</resources>
